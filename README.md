@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nurain-Ansari
-- 👀 I’m interested in java problem solving
-- 🌱 I’m currently learning backend
+- 👀 I’m interested in core java problem solving
+- 🌱 I’m currently learning backend with node js
 - 📫 How to reach me nurainansari0932@gmail.com
 
 <!---
