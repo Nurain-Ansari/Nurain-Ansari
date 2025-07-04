@@ -53,7 +53,7 @@ I write clean, maintainable code with strong naming conventions, and collaborate
 ### 📫 Let's Connect
 
 - 🌐 Portfolio - Will add soon
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-nurain-ansari)
+- 💼 <a href="https://www.linkedin.com/in/md-nurain-ansari" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 📧 Email: nurainansari0932@gmail.com
 
 ---
