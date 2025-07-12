@@ -69,6 +69,8 @@ I write clean, maintainable code with strong naming conventions, and collaborate
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge)
 ![TanStack Table](https://img.shields.io/badge/TanStack%20Table-336699?style=for-the-badge)
 ![Editor.js](https://img.shields.io/badge/Editor.js-black?style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-3E3E3E?style=for-the-badge&logo=Zustand&logoColor=white)
+
 
 ---
 
